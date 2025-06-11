@@ -1,0 +1,19 @@
+{
+    "Mia": {
+        "password": "hello",
+        "tasks": [
+            {
+                "description": "shopping",
+                "completed": false,
+                "important": false,
+                "reminder": null
+            },
+            {
+                "description": "cleaning",
+                "completed": false,
+                "important": false,
+                "reminder": null
+            }
+        ]
+    }
+}
